@@ -1,0 +1,9 @@
+{
+  "name": "Shot Builder",
+  "short_name": "ShotBuilder",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8F5EF",
+  "theme_color": "#F8F5EF",
+  "icons": []
+}
